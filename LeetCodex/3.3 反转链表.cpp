@@ -20,9 +20,12 @@ int main()
 	list->first = head;
 	list->output();
 
+
+	
 	delete list;
 	list = nullptr;
-
+	// delete head;
+	// head = nullptr;
 	std::cout << "Hello, World" << std::endl;
 	system("pause");
 	return 0;
