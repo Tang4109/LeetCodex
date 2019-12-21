@@ -6,7 +6,7 @@
 #include "List.h"
 
 
-int main()
+int main33()
 {
 	//´´½¨Á´±í
 	List<int>* list = new List<int>;

@@ -35,5 +35,8 @@
     <ClCompile Include="3.3 反转链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.4 合并两个有序链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
